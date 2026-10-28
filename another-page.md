@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Your Catchy Blog Post Title"
 date: 2026-10-28 09:00:00 -0500
 categories: [tech, tutorial]
