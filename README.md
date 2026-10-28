@@ -1,2 +1,2 @@
-# jdsoft2000.github.io
-JDSoft  Blog
+# jdsoft2000.github.io/blog
+JDSoft's Blog
